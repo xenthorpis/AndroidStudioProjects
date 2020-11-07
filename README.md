@@ -1,7 +1,7 @@
 # Android Applications
-- tic-tac-toe
+- tic-tac-toe <br />
 ![](TicTacToe.gif)
-- egg timer
+- egg timer <br />
 ![](eggTimer.gif)
-- note (SQLite to store local record)
+- note (SQLite to store local record) <br />
 ![](note.gif)
